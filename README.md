@@ -29,14 +29,14 @@ Key columns: Age, Gender, Profession, Marital_status, Education, No_of_Dependent
 
 
 **Methodology**
-Data Profiling - shape, dtypes, summary statistics
-Univariate Analysis - distribution of every categorical and numerical field (bar charts, histograms)
-Bivariate Analysis - crosstabs and grouped bar charts of Make against every other attribute
-Sampling - repeated random sampling of the majority class to remove group-size bias before comparing SUV preference by gender
-Stakeholder Claim Validation - three claims tested using proportions rather than raw counts
-Spend Analysis - total/average spend by gender and personal loan status
-Partner Employment Impact - average price by Partner_working, overall and by Make
-Customer Segmentation - Married Male / Married Female / Single Male / Single Female, profiled by vehicle mix and average spend
+- Data Profiling - shape, dtypes, summary statistics
+- Univariate Analysis - distribution of every categorical and numerical field (bar charts, histograms)
+- Bivariate Analysis - crosstabs and grouped bar charts of Make against every other attribute
+- Sampling - repeated random sampling of the majority class to remove group-size bias before comparing SUV preference by gender
+- Stakeholder Claim Validation - three claims tested using proportions rather than raw counts
+- Spend Analysis - total/average spend by gender and personal loan status
+- Partner Employment Impact - average price by Partner_working, overall and by Make
+- Customer Segmentation - Married Male / Married Female / Single Male / Single Female, profiled by vehicle mix and average spend
 
 
 **Key Findings**
@@ -50,10 +50,10 @@ All three stakeholder claims (Steve Rogers, Ned Stark, Sheldon Cooper) were test
 
 
 **Tech Stack**
-Python 3
-pandas — data cleaning, profiling, pivot tables, crosstabs
-seaborn / matplotlib — histograms, scatter plots, pair plots, categorical plots
-Jupyter Notebook — analysis environment
+- Python 3
+- pandas - data cleaning, profiling, pivot tables, crosstabs
+- seaborn / matplotlib - histograms, scatter plots, pair plots, categorical plots
+- Jupyter Notebook - analysis environment
 
 
 **Project Structure**
@@ -65,4 +65,4 @@ Jupyter Notebook — analysis environment
 
 
 **Full Report**
-The complete write-up — including the data dictionary, all univariate/bivariate observations, stakeholder claim verdicts, spend analysis, and segmentation strategy with recommended messaging per segment — is available in the accompanying report document.
+The complete write-up - including the data dictionary, all univariate/bivariate observations, stakeholder claim verdicts, spend analysis, and segmentation strategy with recommended messaging per segment - is available in the accompanying report document.
