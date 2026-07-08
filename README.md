@@ -1,4 +1,4 @@
-**Austo Motor Company — Customer Purchase & Marketing Analytics**
+**Austo Motor Company - Customer Purchase & Marketing Analytics**
 
 A complete exploratory data analysis (EDA) project on 1,581 customer purchase records for Austo Motor Company, a manufacturer of SUV, Sedan, and Hatchback vehicles. The project investigates who buys what, fact-checks three marketing-team assumptions against the data, and turns the findings into actionable customer-segmentation and campaign recommendations.
 
@@ -59,8 +59,11 @@ All three stakeholder claims (Steve Rogers, Ned Stark, Sheldon Cooper) were test
 **Project Structure**
 .
 ├── auto.ipynb                  # Main analysis notebook (data cleaning → EDA → segmentation)
+
 ├── austo_automobile.csv        # Raw dataset 
+
 ├── Austo_Motor_Report.docx     # Full formatted business report
+
 └── README.md
 
 
