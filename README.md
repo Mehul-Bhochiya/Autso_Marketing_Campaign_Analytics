@@ -57,13 +57,9 @@ All three stakeholder claims (Steve Rogers, Ned Stark, Sheldon Cooper) were test
 
 
 **Project Structure**
-.
 ├── auto.ipynb                  # Main analysis notebook (data cleaning → EDA → segmentation)
-
 ├── austo_automobile.csv        # Raw dataset 
-
 ├── Austo_Motor_Report.docx     # Full formatted business report
-
 └── README.md
 
 
